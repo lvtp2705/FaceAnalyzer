@@ -8,3 +8,5 @@
    res10_300x300_ssd_iter_140000_fp16.caffemodel: The pre-trained model weights for face detection.
   
    deploy.prototxt.txt: This is the model architecture for the face detection model.
+   
+   Dowload these files here: https://drive.google.com/file/d/16h8W0w0KgcPvz_gNIwj_1kRZDQSDpRW0/view?usp=sharing
